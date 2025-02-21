@@ -165,7 +165,7 @@ A snapshot of the monthly charges
 #### At-risk Customer's Demegraphics
 
 
-Analyzing the demographics of customers identified as at risk of churn reveals that the customer base is nearly evenly split, with 49.8% male and 50.2% female customers. Approximately 25% of these customers are senior citizens, indicating a significant portion of the at-risk group is in the senior demographic. Additionally, 36% have partners, suggesting that a substantial segment of this group is in relationship, and 17% have dependents, highlighting that a substantial segment of this group has additional family responsibilities.
+Analyzing the demographics of customers who are at risk of churn reveals that the customer base is nearly evenly split, with 49.8% male and 50.2% female customers. Approximately 25% of these customers are senior citizens, indicating a significant portion of the at-risk group is in the senior demographic. Additionally, 36% have partners, suggesting that a substantial segment of this group is in relationship, and 17% have dependents, highlighting that a substantial segment of this group has additional family responsibilities.
 
 A snapshot of at-risk customers demograghics
 
@@ -173,51 +173,56 @@ A snapshot of at-risk customers demograghics
 ![customers demoghraphics](https://github.com/user-attachments/assets/7b30773f-38ac-4c69-83e8-d73235f06f22)
 
 
-### 
+####  Subscription Time
 
 
-I employed a doughnut chart to visualize the distribution of total calls, revealing that 72.92% were resolved, while 27.08% remained unresolved. This indicates that approximately 27% of customer inquiries or issues required follow-up interactions, which can impact customer satisfaction and operational efficiency. A high unresolved call rate may suggest challenges in resolving customer issues on the first contact, potentially leading to increased operational costs and decreased customer satisfaction. Improving the resolution rate is crucial for enhancing customer experience and reducing the need for repeat contacts.
+Analyzing the subscription durations of customers who are at risk of churn revealed that 53.45% of at-risk customers have been subscribed for less than a year, 16.53% have subscriptions under two years,10.33% have been with the service for less than three years, 7.81% have subscriptions under four years,6.58% have been subscribed for less than five years, 4.98% have subscriptions under six years, 0.32% have been with the service for less than seven years.
+
+This distribution indicates that a significant portion of at-risk customers have relatively short subscription tenures, with over half (53.45%) having been subscribed for less than a year.
 
 
-A snapshot of Resolved calls(Y/n).
+A snapshot of subscription time 
 
 
-
-![Resolved calls](https://github.com/user-attachments/assets/ff50e5b1-971a-4e12-8616-7fb7393bd787)
-
-
-
-
-
-
-### Average Speed of Answer
-
-
-Upon visualizing the average speed of answering calls, I found that it was 67.52 seconds. This metric indicates the average duration customers wait before their calls are answered by an agent. Industry standards typically aim for an average speed of answer (ASA) between 20 to 30 seconds.Therefore, an ASA of 67.52 seconds is significantly higher than the recommended benchmark, suggesting that customers are experiencing longer wait times than ideal. Extended wait times can lead to increased customer frustration and higher call abandonment rates, potentially impacting overall customer satisfaction. Addressing this issue may involve optimizing staffing levels, improving call routing processes, or enhancing the efficiency of the interactive voice response (IVR) system to reduce wait times. 
-
-Snapshot of Average Speed of answer
-
-
-![Average speed of answer](https://github.com/user-attachments/assets/73543ebe-7dbf-4d84-ad06-9397908183ce)
+![subscription time ](https://github.com/user-attachments/assets/bdc8695e-95db-486d-8afa-05f7ae2699c3)
 
 
 
+#### Customer Account Information
 
 
 
-###  Average Customer Satisfaction
+Upon analyzing the payment methods of customers identified as at risk of churn, it was observed that a significant portion utilizes electronic checks, accounting for 57.30% of the at-risk customer base. Mailed checks are used by 16.48% of these customers, while 13.80% prefer bank transfers. Credit card payments are the least common among this group, comprising 12.41% of the at-risk customers.This distribution suggests that electronic checks and mailed checks are the predominant payment methods among at-risk customers
+
+A snapshot of Payment method 
 
 
-An analysis of the average customer satisfaction score revealed a rating of 3.40, falling short of the target of 4.50. This indicates that, on average, customers were neither satisfied nor dissatisfied, suggesting a neutral perception of the service provided. The satisfaction scale ranged from 1 to 5, with 1 representing 'extremely dissatisfied' and 5 representing 'extremely satisfied'. 
+![payment method](https://github.com/user-attachments/assets/3470bb31-3e76-44dd-9727-6ebc0893bbc8)
 
 
-The minimum satisfaction score recorded was 1, indicating instances where customers were extremely dissatisfied with the service. Such low satisfaction levels can be indicative of significant service issues, including long wait times, unresolved inquiries, or unhelpful interactions. Addressing these concerns is crucial to enhance customer satisfaction and loyalty.
+
+Upon analyzing the billing preferences of customers who are at risk of churn, it was found that a significant majority, 75%, have opted for paperless billing. This indicates a strong preference for electronic billing among this group. Conversely, 25% of at-risk customers continue to receive traditional paper bills.
+The high adoption rate of paperless billing among at-risk customers suggests that electronic billing is a common practice within this segment.
+
+A snapshot of paperless billing
+
+![paperless billing](https://github.com/user-attachments/assets/43aaab31-8d71-48d7-b28a-b138d993326d)
 
 
-A snapshot of Average Customer Satisfaction
+Upon analyzing the contract types of customers at risk of churn, it was observed that a substantial majority, 88.55%, are on month-to-month contracts. A smaller segment, 8.88%, have one-year contracts, while the remaining 2.57% are committed to two-year contracts.
+This distribution indicates that the majority of at-risk customers are on flexible, short-term agreements, which may contribute to their higher likelihood of churn. In contrast, customers with longer-term contracts, such as one or two years, often exhibit lower churn rates due to the commitment involved.
+
+ A snapshot of contract type
 
 
-![Average satisfaction](https://github.com/user-attachments/assets/2657bf5f-68fd-4298-8032-9943fc0167c5)
+![contract type](https://github.com/user-attachments/assets/5bfdfcde-8aa0-474f-b917-33ba34c2ed17)
+
+
+
+#### Services Customers Signed up For
+
+
+
 
 
 
