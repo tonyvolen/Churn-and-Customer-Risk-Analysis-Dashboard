@@ -98,10 +98,6 @@ The objective of this project is to create an advanced customer retention dashbo
 ### 1. Churn Analysis
 
 
-#### customers at risk
-
-
-
 To gain a clearer understanding of the current customer landscape, I used a visual card to summarize key metrics related to customers who are at risk of churn. The data revealed the following insights:
 
 
@@ -236,25 +232,21 @@ A snapshot of services customers signed up for
 
 
 
-###  Agent Statistics
+###  2. Customer Risk Analysis
 
 
-I analyzed agent performance statistics and found the following:
+In analyzing the customer service metrics, the data revealed a total of 7,043 customers, with 2,955 technical support tickets and 3,682 administrative support tickets submitted. The annual charges for this group amounted to $16.06 million, and the churn rate was calculated at 27%.
 
-- Call Handling: Jim answered the highest number of calls at 536, while Steward answered the fewest at 477.
-
-- Call Resolution: Jim also led in resolved calls with 485, whereas Steward had the lowest at 424.
-
-- Customer Satisfaction: Martha achieved the highest average satisfaction rating of 3.47, while Joe had the lowest at 3.33.
-
-- Response Time: Joe had the highest average speed of answer at 70.99 seconds, while Becky had the lowest average speed of answer at 65.33 seconds.
-
-These findings highlight variations in agent performance across key metrics, indicating areas for potential improvement in call handling efficiency and customer satisfaction.
-
-A snapshot of Agent Statistics
+The 27% churn rate suggests that approximately 27% of the at-risk customers have terminated their contracts within the analyzed timeframe. This rate is notably higher than the average churn rates observed in the telecommunications industry, which typically range from 11% to 22% 
+The elevated churn rate among this segment underscores the urgency for implementing targeted retention strategies. By addressing the specific needs and concerns of these at-risk customers, the company can work towards reducing churn and enhancing customer loyalty.
 
 
-![Agent Statistics](https://github.com/user-attachments/assets/8e2cf4e6-2536-4395-90c1-10fda0925526)
+A snapshot of churn rate
+
+
+![churn rate](https://github.com/user-attachments/assets/67180915-c3c9-4b49-bec0-7e83cd273b57)
+
+
 
 
 
