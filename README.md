@@ -95,40 +95,75 @@ The objective of this project is to create an advanced customer retention dashbo
 
 ## Project Insights 
 
-### Churn Analysis
+### 1. Churn Analysis
 
 
-I utilized a doughnut chart to visualize the distribution of total calls, revealing that 81.08% were answered, while 18.92% were abandoned. This indicates that approximately 19% of incoming calls were terminated by customers before reaching an agent, which is a critical metric for assessing customer service efficiency. A high call abandonment rate can suggest issues such as long wait times or inadequate staffing, potentially leading to decreased customer satisfaction.
+#### customers at risk
 
+
+
+To gain a clearer understanding of the current customer landscape, I used a visual card to summarize key metrics related to customers who are at risk of churn. The data revealed the following insights:
+
+
+
+- Total Number of At-Risk Customers:
   
+There are 1,869 customers identified as being at risk of churn. These are customers who exhibit signs of potential termination based on historical behavior patterns or predictive modeling.
+
+A snapshot of total number of at-risk customers.
 
 
-A snapshot of answered calls(Y/n).
+![customers at risk](https://github.com/user-attachments/assets/cddbd0c0-7189-4792-98bc-8f2847a90a73)
 
 
-![Answered calls](https://github.com/user-attachments/assets/0c86d138-6112-4fb5-804f-b9672e49173a)
+- Total Tech Support Tickets:
+
+  These at-risk customers have generated 2,173 tech support tickets, highlighting potential service or technical issues that may be contributing to their dissatisfaction.
+
+A snapshot of total tech support tickets 
 
 
-
-I employed a stacked column chart to visualize the total number of calls answered over a three-month period. In January, the data revealed 1,455 answered calls and 317 abandoned calls. February showed 1,298 answered calls and 318 abandoned calls, while March recorded 1,301 answered calls and 311 abandoned calls.
-
-Upon assessment of call abandonment rate for each month, we obtained the following results:
+![number of tech tickets](https://github.com/user-attachments/assets/2bf66ea0-d0e4-4199-9d40-2716f707d58f)
 
 
-- January:  17.9%
-- February: 19.7%
-- March:  19.3%
-
+- Total Admin Support Tickets:
   
-These figures indicate that, on average, approximately 19% of calls were abandoned each month.
+ Additionally, there are 885 admin support tickets raised by these at-risk customers, which could point to issues related to billing, account management, or service terms.
+
+A snapshot of total admin support tickets 
 
 
-A snapshot of number of calls per month
+![admin tickets](https://github.com/user-attachments/assets/356ea535-f7fc-4896-aec8-7f0adc69f04d)
+
+
+
+- Yearly Charges:
+  
+ The total yearly charges for these at-risk customers amount to $2.86 million. This reflects the total revenue generated from this segment, which emphasizes the significant impact that losing these customers could have on the company's bottom line.
+
+A snapshot of the yearly charges
+
+
+![yearly charges](https://github.com/user-attachments/assets/d5b1f28d-5f1b-4f4e-b073-4f3e5e11de79)
+
+
+
+- Monthly Charges:
+  
+The monthly charges from these customers total $139.13k, providing a sense of the recurring revenue at risk if retention efforts are not prioritized.
+
+A snapshot of the monthly charges
+
+
+![monthly charges](https://github.com/user-attachments/assets/a7dca9a3-4a2e-42e2-8d26-2f740ae9f5ec)
 
 
 
 
-![Number of call per month](https://github.com/user-attachments/assets/3989004f-b006-4408-bc57-4f3540f529ec)
+
+
+
+
 
 
 
