@@ -162,14 +162,18 @@ A snapshot of the monthly charges
 
 
 
+#### At-risk Customer's Demegraphics
 
 
+Analyzing the demographics of customers identified as at risk of churn reveals that the customer base is nearly evenly split, with 49.8% male and 50.2% female customers. Approximately 25% of these customers are senior citizens, indicating a significant portion of the at-risk group is in the senior demographic. Additionally, 36% have partners, suggesting that a substantial segment of this group is in relationship, and 17% have dependents, highlighting that a substantial segment of this group has additional family responsibilities.
+
+A snapshot of at-risk customers demograghics
 
 
+![customers demoghraphics](https://github.com/user-attachments/assets/7b30773f-38ac-4c69-83e8-d73235f06f22)
 
 
-
-### Resolved calls
+### 
 
 
 I employed a doughnut chart to visualize the distribution of total calls, revealing that 72.92% were resolved, while 27.08% remained unresolved. This indicates that approximately 27% of customer inquiries or issues required follow-up interactions, which can impact customer satisfaction and operational efficiency. A high unresolved call rate may suggest challenges in resolving customer issues on the first contact, potentially leading to increased operational costs and decreased customer satisfaction. Improving the resolution rate is crucial for enhancing customer experience and reducing the need for repeat contacts.
