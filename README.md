@@ -222,10 +222,17 @@ This distribution indicates that the majority of at-risk customers are on flexib
 #### Services Customers Signed up For
 
 
+Upon analyzing the services subscribed to by customers identified as at risk of churn, it was found that a significant majority, 91%, have enrolled in phone services. Among these, half (50%) have opted for multiple lines, while the other half (50%) have single-line subscriptions. Additionally, 29% of at-risk customers have subscribed to device protection services, and 28% have chosen online backup services. Online security services are utilized by 16%, whereas 44% have subscribed to streaming movie services, and an equal percentage, 44%, have subscribed to streaming TV services. Tech support services are the least subscribed among this group, with 17% of at-risk customers availing themselves of this service.
+
+This distribution indicates that the majority of at-risk customers are engaged with core services such as phone services, device protection, and online backup. The high subscription rates to streaming services suggest a strong preference for entertainment options among this group.
+
+Additionally, i analyzed the internet service subscriptions of customers at risk of churn, it was found that a significant majority, 69%, have opted for fiber-optic internet services. This indicates a strong preference for high-speed, reliable internet connections among this group. In contrast, 25% have subscribed to DSL services, which offer more moderate speeds and are widely available in many areas, especially urban and suburban locations. A smaller segment, 6%, have not subscribed to any internet service, highlighting a potential area for engagement and service expansion.
+The high adoption rate of fiber-optic internet among at-risk customers suggests that they value fast and reliable internet connections. 
+
+A snapshot of services customers signed up for
 
 
-
-
+![services customers signed up for](https://github.com/user-attachments/assets/eded87e2-211b-489a-ae27-7dbc099831e1)
 
 
 
