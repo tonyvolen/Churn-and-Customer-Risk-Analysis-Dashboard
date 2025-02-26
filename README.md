@@ -6,16 +6,23 @@
 
 - [Project Objective](#project-objective)
 - [Dataset Used](#dataset-used)
-- [Questions (KPIs)](#questions-(KPIs))
+- [Questions (KPIs)](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#questions-kpis)
 - [Dashboard Link](#dashboard-link)
 - [Steps Followed](#steps-followed)
 - [Dashboard](#dashboard)
 - [Project Insights](#project-insights)
-- [Answered Calls](#answered-calls)
-- [Resolved calls](#resolved-calls)
-- [Average Speed of Answer](#average-speed-of-answer)
-- [Average Customer Satisfaction](#average-customer-satisfaction)
-- [Agent Statistics](#agent-statistics)
+- [1. Churn Analysis](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#1-churn-analysis)
+- [At-risk Customer's Demegraphics](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#at-risk-customers-demegraphics)
+- [Subscription Time](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#subscription-time)
+- [Customer Account Information](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#customer-account-information)
+- [Services Customers Signed up For](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#services-customers-signed-up-for)
+- [2. Customer Risk Analysis](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#2-customer-risk-analysis)
+- [Churn by Internet Service](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#churn-by-internet-service)
+- [Number of Customers by Internet Service](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#number-of-customers-by-internet-service)
+- [Monthly Charges by Internet Service](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#monthly-charges-by-internet-service)
+- [Churn Rate by Type of Contract](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#churn-rate-by-type-of-contract)
+- [Churn by Years of Contract](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#churn-by-years-of-contract)
+- [Churn by Payment Method](https://github.com/tonyvolen/Churn-and-Customer-Risk-Analysis-Dashboard#churn-by-payment-method)
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
 
@@ -287,7 +294,7 @@ A snapshot of  sum of monthly charges by internet service
 
 
 
-#### churn Rate by Type of Contract
+#### Churn Rate by Type of Contract
 
 The churn analysis by contract type reveals that month-to-month subscribers, who number 3,875 experience a significantly high churn rate of 43%. This indicates that the lack of a binding commitment makes these customers more likely to switch providers in response to competitive offers, pricing changes, or dissatisfaction with service.
 In contrast, one-year contracts, with approximately 1.5K customers, show a much lower churn rate of 11%, suggesting that even a modest commitment period can substantially enhance customer retention by reducing the ease of switching. The most striking performance is seen in the two-year contracts, which have 1.7K customers and an impressively low churn rate of just 3%. This low churn rate likely reflects the stability and security that longer-term contracts provide, as customers benefit from consistent pricing and service quality while incurring higher switching costs, thereby fostering long-term loyalty.
