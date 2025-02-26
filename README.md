@@ -249,23 +249,98 @@ A snapshot of churn rate
 
 
 
+#### Churn by Internet Service
+
+The churn analysis by internet service shows that fiber optic customers have the highest churn rate at 42%, followed by DSL at 19%, and “No internet” at just 7%. This suggests that, while fiber optic typically offers premium speeds and reliability, its higher cost or unmet service expectations may drive customers to switch providers. Meanwhile, DSL’s more moderate churn rate likely reflects a balance between affordability and acceptable performance. The minimal churn among customers with no internet service could stem from a simpler billing structure or fewer perceived alternatives, reducing their incentive to cancel or change services.
 
 
+A snapshot of churn by internet service 
+
+
+
+![churn by internet service](https://github.com/user-attachments/assets/c5a5288b-e684-4a60-b70c-249f070e36bb)
+
+
+
+
+#### Number of Customers by Internet Service
+
+The dashboard’s breakdown of customer distribution by internet service reveals that fiber optic has the highest number of customers at 3.1K, followed by DSL with 2.42K customers, while 1.53K customers have not subscribed to any internet service. The higher adoption of fiber optic services suggests that customers prioritize high-speed and reliable connectivity, making it a preferred choice despite potentially higher costs. In contrast, DSL still retains a substantial customer base, likely due to its affordability and availability in areas where fiber infrastructure is limited. The presence of a significant number of non-subscribers may indicate customers using alternative mobile or satellite internet solutions or those who do not require home internet services. Understanding these trends is crucial for the telecom provider to focus on retention strategies, upgrade incentives, and infrastructure investments that cater to the varying needs of different customer segments.
+
+
+A snapshot of number of customers by internet service 
+
+
+
+![No  of customers by internet service](https://github.com/user-attachments/assets/70cb2ba1-6172-4a74-b37e-cba678ae7f81)
+
+
+
+#### Monthly Charges by Internet Service
+
+The sum of monthly charges by internet service highlights that fiber optic customers contribute the highest revenue at $283.28K, followed by DSL users at $140.67K, while customers without an internet subscription generate $32.17K. This distribution suggests that fiber optic users typically subscribe to premium plans with higher costs, reflecting the value they place on speed and reliability. In contrast, DSL customers, who pay significantly less, may opt for budget-friendly plans due to either financial considerations or limited availability of high-speed alternatives. The lower revenue from non-internet subscribers indicates that they primarily rely on other telecom services, such as phone or TV, or may be minimal-service customers. These insights emphasize the importance of retaining high-value fiber subscribers while creating compelling upgrade incentives for DSL users to boost revenue further.
+
+
+A snapshot of  sum of monthly charges by internet service
+
+![Sum of monthly charges ](https://github.com/user-attachments/assets/24ffdf62-a23b-40b5-ae1d-430d23cedcf0)
+
+
+
+#### churn Rate by Type of Contract
+
+The churn analysis by contract type reveals that month-to-month subscribers, who number 3,875 experience a significantly high churn rate of 43%. This indicates that the lack of a binding commitment makes these customers more likely to switch providers in response to competitive offers, pricing changes, or dissatisfaction with service.
+In contrast, one-year contracts, with approximately 1.5K customers, show a much lower churn rate of 11%, suggesting that even a modest commitment period can substantially enhance customer retention by reducing the ease of switching. The most striking performance is seen in the two-year contracts, which have 1.7K customers and an impressively low churn rate of just 3%. This low churn rate likely reflects the stability and security that longer-term contracts provide, as customers benefit from consistent pricing and service quality while incurring higher switching costs, thereby fostering long-term loyalty.
+
+
+A snapshot of churn rate by contract type
+
+
+![churn by type of contract](https://github.com/user-attachments/assets/40b2fd88-5173-4b4d-9e69-dd7ac8cefb90)
+
+
+#### Churn by Years of Contract 
+
+The churn rate decreases dramatically as the duration of the contract increases: customers with contracts lasting less than 1 year churn at a rate of 48%, which drops to 30% for contracts under 2 years, 22% for those under 3 years, 20% for contracts under 4 years, 15% for those under 5 years, 8% for contracts under 6 years, and finally just 2% for contracts under 7 years. This trend suggests that newer customers are more likely to leave as they are still evaluating the service or may be more sensitive to initial pricing and service issues, whereas long-term customers, having built a stronger relationship and incurred higher switching costs, tend to remain loyal, reflecting increased satisfaction and stability over time.
+
+
+A snapshot of churn by years of contract 
+
+
+
+![churn by years of contract](https://github.com/user-attachments/assets/3c58e65e-9635-428a-8121-77993dcf454a)
+
+
+
+#### Churn by Payment Method
+
+The churn analysis by payment method highlights that customers using electronic checks experience the highest churn rate at 45%, contributing $0.18M in monthly charges. In contrast, mailed check users have a significantly lower churn rate of 19% with $0.07M in monthly charges, while bank transfer (automatic) and credit card (automatic) payments show the lowest churn rates at 17% and 15%, respectively, each generating $0.10M in monthly charges.
+
+
+The high churn rate among electronic check users suggests that these customers may prefer flexible or temporary payment arrangements and may not have automatic payments set up, making it easier for them to cancel services. On the other hand, customers using automatic payment methods, such as bank transfers or credit cards, likely experience lower churn due to the convenience and consistency of payments, reducing the likelihood of service disruption or reconsideration. This insight suggests that encouraging automatic payment setups could enhance customer retention by minimizing churn
+
+
+ A snapshot of churn by payment method
+
+
+![churn by payment method](https://github.com/user-attachments/assets/aa1512da-9b94-41f1-bbc5-13d8ca080c08)
+
+ 
 ## Conclusion
 
 
-The analysis of the customer service team's performance has provided valuable insights into key operational metrics. While certain agents, such as Jim, demonstrated high call handling and resolution rates, others, like Steward, exhibited lower performance in these areas. Additionally, the average customer satisfaction score of 3.40 fell short of the target of 4.50, indicating a need for improvement in service quality. The variation in average speed of answer among agents further highlights inconsistencies in response times. 
+The churn analysis reveals that month-to-month contracts, electronic check payments, and fiber optic services contribute to higher churn due to flexibility, payment inconvenience, and service costs. In contrast, longer contracts, automatic payment methods, and affordable options like DSL or no internet reduce churn by providing stability and cost-effectiveness. To enhance retention, telecoms should promote long-term contracts, incentivize automatic payments, and carefully balance the pricing and quality of premium services 
 
 
 ## Recommendations
 
 
-1. Implement tools such as Interactive Voice Response (IVR) systems to streamline call routing and reduce wait times, enhancing customer experience. 
+1.  Offer attractive incentives, such as discounts or added benefits, to encourage customers to opt for one- or two-year contracts instead of month-to-month plans, reducing the likelihood of churn.
+2.  Provide discounts or loyalty rewards for customers who switch to automatic payment methods like bank transfers or credit cards, as these customers show lower churn rates compared to those using electronic checks.
+3.  Since fiber optic customers have the highest churn rate, telecoms should assess pricing, improve service reliability, and introduce personalized retention offers to maintain customer satisfaction. 
 
-2. Offer regular performance reviews and constructive feedback to agents, coupled with coaching sessions to support their professional development. 
+4.  Use predictive analytics to identify customers at risk of churning, particularly those with short contracts or electronic check payments, and engage them early with personalized offers or support.
 
-3. Establish achievable targets for agents, allowing flexibility to accommodate varying workloads and reduce stress, thereby improving overall performance. 
+5.  Provide better guidance on contract benefits, payment options, and service features to improve customer satisfaction and reduce churn driven by misunderstandings or dissatisfaction with pricing and service expectations.
 
-4.  Develop and promote self-service channels, such as online FAQs and chatbots, to empower customers and reduce call volumes, allowing agents to focus on more complex inquiries.
 
-5. Continuously track metrics like average handle time, first call resolution, and customer satisfaction scores to identify areas for improvement.
